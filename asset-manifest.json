@@ -1,17 +1,16 @@
 {
   "files": {
-    "main.css": "/marriage-invitation/static/css/main.b85d652a.css",
-    "main.js": "/marriage-invitation/static/js/main.605d0b74.js",
+    "main.css": "/marriage-invitation/static/css/main.74e84adf.css",
+    "main.js": "/marriage-invitation/static/js/main.9137e103.js",
     "static/js/787.4619f93c.chunk.js": "/marriage-invitation/static/js/787.4619f93c.chunk.js",
-    "static/media/wa_bg.png": "/marriage-invitation/static/media/wa_bg.20fc043690a9b7673eb3.png",
     "index.html": "/marriage-invitation/index.html",
     "static/media/emoji_emotions_black.svg": "/marriage-invitation/static/media/emoji_emotions_black.3812436514b99defb46d.svg",
-    "main.b85d652a.css.map": "/marriage-invitation/static/css/main.b85d652a.css.map",
-    "main.605d0b74.js.map": "/marriage-invitation/static/js/main.605d0b74.js.map",
+    "main.74e84adf.css.map": "/marriage-invitation/static/css/main.74e84adf.css.map",
+    "main.9137e103.js.map": "/marriage-invitation/static/js/main.9137e103.js.map",
     "787.4619f93c.chunk.js.map": "/marriage-invitation/static/js/787.4619f93c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b85d652a.css",
-    "static/js/main.605d0b74.js"
+    "static/css/main.74e84adf.css",
+    "static/js/main.9137e103.js"
   ]
 }
